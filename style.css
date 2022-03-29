@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;700&display=swap');
+body {
+    font-family: 'Raleway', sans-serif;
+    background: palevioletred;
+    color: red;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    
+    max-width: 400px;
+    min-width: 400px;
+  }
+  
+  .title {
+    font-weight: 700;
+    font-size: 50px;
+  }
+  
+  
+
+  
+  .cityName {
+    position: absolute;
+    width: 100%;
+  }
+
+
+  
+  
+
+  
+
+  .card-mid {
+    line-height: 0.5;
+  }
+  
